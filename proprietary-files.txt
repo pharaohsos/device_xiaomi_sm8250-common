@@ -1,4 +1,4 @@
-# Unpinned blobs from munch-user 13 RKQ1.211001.001 V14.0.6.0.TLMMIXM release-keys
+# Unpinned blobs from munch_global-user 14 UKQ1.231207.002 V816.0.1.0.ULMMIXM release-keys
 # phone1: Nothing/Spacewar/Spacewar:14/UP1A.231005.007/2401062238:user/release-keys
 
 # ADSP
